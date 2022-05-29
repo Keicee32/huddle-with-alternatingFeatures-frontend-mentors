@@ -116,7 +116,8 @@ header,
     margin-bottom: 3em;
 }
 
-.footer-flex {
+.footer-flex,
+.footer .container {
     text-align: left;
 }
 
