@@ -79,7 +79,7 @@ header,
     margin-bottom: 2em;
     padding: 1em;
     border: 2px solid white;
-    box-shadow: 1px -1px 4px #333;
+    box-shadow: 1px 1px 5px #ddd;
     border-radius: 10px;
 }
 
